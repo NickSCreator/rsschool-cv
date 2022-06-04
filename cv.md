@@ -1,8 +1,8 @@
 ![Avatar](images/AVA.JPG)
 # Nick Shevchenko
 Phone: +380 (99) 512 1648
-Email: nickscreator@gmail.com
-Discord: Nikita (@NickSCreator)
+\nEmail: nickscreator@gmail.com
+\nDiscord: Nikita (@NickSCreator)
 ## Experience
 ### KEY ACCOUNT / SUPPORT, HUSHME, KYIV — 2020-2022
 I have grown from customer support to key account over 2 years. My scope of responsibility included managing distributors and retail shops, as well as bloggers. My latest project is Hushme’s website www.gethushme.com. I’ve been designing marketing materials for Hushme speech privacy mask startup at ARTKB and joined their team in 2020.
@@ -21,34 +21,10 @@ Ability to prioritize and focus;
 * Good knowledge of Adobe CC and Figma;
 * Advanced project management workflow (Trello, Asana, Slack).
 ## Code Example
-### Convert string to camel case
-https://www.codewars.com/kata/517abf86da9663f1d2000003
-`function toCamelCase(str) {
-  
-  function toCC(array) {
-    var newArray = []
-    newArray.push(array[0])
-  
-    for (let i = 1; i < array.length; i++) {
-      newArray.push(array[i][0].toUpperCase() + array[i].slice(1, array[i].length))
-    }
-  
-    var newString = newArray.join('')
-    return newString
-  }
-  
-  if (str === '') {
-    result = ''
-  }
-  else if (str.includes('-')) {
-    var array = str.split('-')
-    result = toCC(array)
-  }
-  else if (str.includes('_')) {
-    var array = str.split('_')
-    result = toCC(array)
-  }
-  return result
+### Reversed Words
+https://www.codewars.com/kata/51c8991dee245d7ddf00000e
+`function reverseWords(str){
+  return str.split(' ').reverse().join(' ')
 }`
 ## Education
 * Economics, University of "Kyiv-Mohyla Academy”, Kyiv, Ukraine — Bachelor’s Degree – 2017-2021, taught in Ukrainian and English
