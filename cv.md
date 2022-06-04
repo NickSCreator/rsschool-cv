@@ -1,8 +1,8 @@
 ![Avatar](images/AVA.JPG)
 # Nick Shevchenko
 Phone: +380 (99) 512 1648
-\nEmail: nickscreator@gmail.com
-\nDiscord: Nikita (@NickSCreator)
+Email: nickscreator@gmail.com
+Discord: Nikita (@NickSCreator)
 ## Experience
 ### KEY ACCOUNT / SUPPORT, HUSHME, KYIV — 2020-2022
 I have grown from customer support to key account over 2 years. My scope of responsibility included managing distributors and retail shops, as well as bloggers. My latest project is Hushme’s website www.gethushme.com. I’ve been designing marketing materials for Hushme speech privacy mask startup at ARTKB and joined their team in 2020.
