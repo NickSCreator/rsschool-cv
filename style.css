@@ -1,0 +1,8 @@
+html {
+   font-family: Arial, sans-serif !important;
+}
+
+div {
+    max-width: 50%;
+    margin: auto;
+}
