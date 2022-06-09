@@ -1,8 +1,72 @@
-html {
-   font-family: Arial, sans-serif !important;
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.3;
+  min-height: 100vh;
+  max-width: 40%;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-div {
-    max-width: 50%;
-    margin: auto;
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-item a {
+  color: black;
+  text-decoration: underline;  
+  transition: color 0.5s;
+}
+
+.nav-item a:hover {
+  color: blue;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 12px;
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth; 
+}
+
+a {
+  color: black;
+  transition: color 0.5s;
+}
+
+a:hover {
+  color: blue;
+}
+
+#rss-logo {
+  margin: 0px 100px;
 }
