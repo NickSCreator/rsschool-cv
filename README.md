@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nickscreator.github.io/rsschool-cv/
